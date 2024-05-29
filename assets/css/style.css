@@ -127,6 +127,7 @@ li {
 	position: relative;
 	width: 10%;
 	cursor: pointer; 
+  transition: all 1s;
 }
 
 .img-text {
